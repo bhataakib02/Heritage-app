@@ -7,13 +7,13 @@ Background: Visitors to museums often face several significant challenges due to
 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+bash
 npm run dev
 # or
 yarn dev
@@ -21,13 +21,13 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [next/font](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
@@ -76,12 +76,12 @@ Solution Demo:
 You can access the live demo of the solution at: https://heritage-app-gamma.vercel.app/
 
 Team Members:
-1. Shayam Ahmad (Leader) ---@https://github.com/shayamahmad
-2. Mohammad Aakib Bhat
-3. Haroon Iqbal
-4. Jan Adnan Farooq
-5. Isha Mishra
-6. Shivani Gupta
+1. Shayam Ahmad (Leader)
+2. Mohammad Aakib Bhat - https://github.com/bhataakib02
+3. Haroon Iqbal - https://github.com/Haroon-89
+4. Jan Adnan Farooq - https://github.com/Adnaan-dev
+5. Isha Mishra - https://github.com/ishamishra19
+6. Shivani Gupta - https://github.com/shivanigupta004
 
 Structure:
 1. src/: Contains the source code for the chatbot and ticket booking system.
@@ -92,4 +92,4 @@ Contribution:
 Feel free to raise any issues or contribute to the project by submitting pull requests.
 
 
-**Note: For an optimal user interface experience, it is recommended to access this platform on a desktop.** 
+*Note: For an optimal user interface experience, it is recommended to access this platform on a desktop.*
